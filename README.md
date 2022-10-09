@@ -1,4 +1,4 @@
-### Hi there 👋 I am python developer
+### Hi there 👋 I am python developer (and some C++) :)
 
 <!--
 **kingtuler1454/kingtuler1454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
