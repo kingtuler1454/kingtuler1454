@@ -1,5 +1,5 @@
 ### Hi there 👋 I am python developer (and some C++) :)
-
+![alt gif](https://i.gifer.com/4f8W.gif)
 <!--
 **kingtuler1454/kingtuler1454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
