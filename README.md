@@ -1,9 +1,10 @@
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=kingtuler1454)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kingtuler1454)](https://github.com/ryo-ma/github-profile-trophy)![](https://komarev.com/ghpvc/?username=kingtuler1454)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingtuler1454&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingtuler1454&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kingtuler1454&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kingtuler1454&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kingtuler1454&theme=solarized_dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kingtuler1454)]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingtuler1454)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=kingtuler1454)
 
 
 <!--
