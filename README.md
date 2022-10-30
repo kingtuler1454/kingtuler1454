@@ -4,7 +4,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kingtuler1454&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kingtuler1454&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kingtuler1454&theme=solarized_dark)
-![alt text](https://github.com/kingtuler1454/kingtuler1454/blob/main/C2TiRDY3_YE.jpg)
 
 
 <!--
