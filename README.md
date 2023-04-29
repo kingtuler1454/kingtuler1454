@@ -1,7 +1,6 @@
 Hi there 👋
-🔭 I’m student on  Samara University
-
-
+🔭 I’m Python and C++ developer
+🔭 I’m student on  Samara National Research University on the course Information Security of Automated Systems (10.05.03)
 
 Here is a short describe of my skills:
 1.	Good knowledge of Python, C++, SQL;
