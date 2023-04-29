@@ -1,9 +1,9 @@
-![](https://komarev.com/ghpvc/?username=kingtuler1454)
-Hi there 👋
 
-🔭 I’m Python and C++ developer
+Hi there 👋                   
 
-🔭 I’m student on  Samara National Research University on the course Information Security of Automated Systems (10.05.03)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+Python+developer)](https://git.io/typing-svg)                          
+
+🔭 I’m student on  Samara National Research University on the course Information Security of Automated Systems (10.05.03)![](https://komarev.com/ghpvc/?username=kingtuler1454) 
 
 
 Here is a short describe of my skills:
@@ -30,4 +30,5 @@ My other accounts:
 
 
 [Stepic](https://stepik.org/users/595471704)
+
 
