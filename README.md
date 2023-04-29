@@ -17,8 +17,8 @@ Here is a short describe of my skills:
 
 📫 How to reach me:
 E-mail: morozovsergey.03@gmail.com
-Telegram: @morozov6112
+Telegram: [morozov6112](https://t.me/morozov6112)
 My other accounts:
 
 [Stepic](https://stepik.org/users/595471704)
-###LinkedIn
+
