@@ -16,9 +16,14 @@ Here is a short describe of my skills:
 - About [Linux](https://stepik.org/cert/2048051)
 
 📫 How to reach me:
+
 E-mail: morozovsergey.03@gmail.com
 Telegram: [morozov6112](https://t.me/morozov6112)
+
+
 My other accounts:
+
+
 
 [Stepic](https://stepik.org/users/595471704)
 
