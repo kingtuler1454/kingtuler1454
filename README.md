@@ -18,6 +18,7 @@ Other:
 
   At University, I developed Python application about a quick test of students' knowledge of the academic discipline. I wrote commercial scripts to imitate people on websites . Also there are several of  [certificates](https://drive.google.com/drive/folders/1w2c6oKNBp3rjzIJTWm66uy2sFb3xZsIw?usp=sharing):
 
+- About [Testing](https://stepik.org/cert/2148645)
 - About [SQL](https://stepik.org/cert/1992535)
 - About [Linux](https://stepik.org/cert/2048051)
 
